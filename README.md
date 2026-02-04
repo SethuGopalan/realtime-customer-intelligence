@@ -4,7 +4,7 @@
 Kafka - (real-time) + Spark (batch) - + NoSQL, orchestrated by Airflow, modeled by dbt, analyzed with pandas/Python/R.
 # Real-Time + Batch Customer Behavior Intelligence Platform
 
-## One-line pitch (for README / interviews)
+## One-line pitch (for README )
 
 A production-style data platform that ingests real-time events via Kafka, processes them with Flink (real-time) and Spark/Databricks (batch), stores curated analytics in a cloud warehouse (Snowflake/BigQuery/Redshift), keeps raw and high-velocity data in NoSQL (MongoDB/Cassandra), models metrics with dbt, orchestrates with Airflow, and runs data science & ML analysis using pandas and R.
 
